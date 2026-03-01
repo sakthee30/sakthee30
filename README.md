@@ -105,12 +105,9 @@ I am a Software Engineer with 1 year 2 months of experience in backend developme
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakthee30&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthee30&layout=compact&theme=default&hide_border=true" width="48%" />
-</p>
+![Visitor Count](https://komarev.com/ghpvc/?username=sakthee30&color=0066CC&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
