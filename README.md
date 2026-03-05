@@ -69,7 +69,7 @@ I am a Software Engineer with 1 year 2 months of experience in backend developme
 
 ## 🚀 Featured Projects
 
-### 📄 [Document Q&A System — LangChain + ChromaDB + Groq](https://github.com/sakthee30/document-qna-langchain)
+### 📄 [Document Q&A System — LangChain + ChromaDB + Groq API](https://github.com/sakthee30/document-qna-langchain)
 > Production-style RAG system built using LangChain, ChromaDB, Groq API and FastAPI
 
 - Built using **FastAPI + LangChain LCEL** with session-based conversation memory
