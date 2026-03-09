@@ -81,7 +81,7 @@ I am a Software Engineer with 1 year 2 months of experience in backend developme
 
 ---
 
-### 📄 [Document Q&A RAG System — Built from Scratch](https://github.com/sakthee30/document-qna-rag-local)
+### 📄 [Document Q&A RAG System](https://github.com/sakthee30/document-qna-rag-local)
 > RAG pipeline built using FastAPI, FAISS, Streamlit, and local Mistral LLM via Ollama.
 
 - Custom **FAISS vector store** built from scratch using `IndexFlatL2`
