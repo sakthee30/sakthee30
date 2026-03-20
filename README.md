@@ -1,18 +1,19 @@
 # Hi, I'm Saktheeswari P 👋
 
-**Software Engineer at Capgemini | Python & GEN AI Enthusiast**
+**GenAI Engineer | RAG Pipelines | LangChain | FastAPI | LLM Applications**
 
-I am a Software Engineer with 1 year 2 months of experience in backend development, REST APIs, and AI-powered solutions. I am passionate about Generative AI and actively building production-style RAG systems, LLM-based applications, and scalable FastAPI backends.
+Software Engineer at Capgemini with 1.4 years of experience in backend development and Generative AI. Passionate about building production-ready RAG systems, LLM-based applications, and scalable FastAPI backends. Actively seeking GenAI Engineer roles.
 
 ---
 
 ## 🧠 About Me
 
-- 🏢 Currently working as a **Software Engineer at Capgemini** 
+- 🏢 Currently working as **Software Engineer – AI & Backend at Capgemini**
 - 🤖 Passionate about **Generative AI** — RAG pipelines, LangChain, and LLM integration
-- 🔭 Currently building projects around **LangChain, ChromaDB, Groq API, and FastAPI**
+- 🔭 Currently building projects around **LangChain, ChromaDB, HuggingFace, Groq API, and FastAPI**
 - 🎓 B.Tech in **Artificial Intelligence & Data Science** — Sri Sairam Engineering College (CGPA: 9.04)
 - 📍 Based in **Chennai, India**
+- 💼 Open to **GenAI Engineer / AI-ML Engineer** roles — Chennai or Remote
 
 ---
 
@@ -28,11 +29,13 @@ I am a Software Engineer with 1 year 2 months of experience in backend developme
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0066CC?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![Groq API](https://img.shields.io/badge/Groq_API-F54A00?style=for-the-badge)
 ![Mistral](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge)
+![LLaMA](https://img.shields.io/badge/LLaMA3-6A0DAD?style=for-the-badge)
 ![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-009688?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A0DAD?style=for-the-badge)
 ![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-0096FF?style=for-the-badge)
@@ -43,6 +46,7 @@ I am a Software Engineer with 1 year 2 months of experience in backend developme
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
 
@@ -54,7 +58,7 @@ I am a Software Engineer with 1 year 2 months of experience in backend developme
 
 **🗄️ Databases**
 
-![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **🔧 Tools & Version Control**
@@ -63,49 +67,50 @@ I am a Software Engineer with 1 year 2 months of experience in backend developme
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📄 [Document Q&A System — LangChain + ChromaDB + Groq API](https://github.com/sakthee30/document-qna-langchain)
-> Production-style RAG system built using LangChain, ChromaDB, Groq API and FastAPI
+### 📄 [Document Q&A System — LangChain + ChromaDB + Triple LLM Support](https://github.com/sakthee30/document-qna-langchain)
+> Production-style RAG backend API with triple LLM support — Groq, Ollama, and HuggingFace
 
-- Built using **FastAPI + LangChain LCEL** with session-based conversation memory
+- Built using **FastAPI + LangChain LCEL** with session-based conversation memory for multi-turn Q&A
 - **ChromaDB** as persistent vector store with automatic SQLite backend
-- **Dual LLM support** — Groq API (cloud) + Ollama (local) via LLM-agnostic design
-- Complete RAG pipeline: PyPDFLoader → RecursiveCharacterTextSplitter → OllamaEmbeddings → ChromaDB → LLM
+- **HuggingFace Embeddings** (sentence-transformers/all-MiniLM-L6-v2) for vector generation
+- **Triple LLM support** — Groq API (cloud) + Ollama (local) + HuggingFace Inference API (Mistral-7B) — switchable via single API parameter
+- Complete RAG pipeline: PyPDFLoader → RecursiveCharacterTextSplitter → HuggingFace Embeddings → ChromaDB → LLM
+- Dockerized with clean services architecture (PDF loader, vector store, RAG chain, memory)
 
-`Python` `FastAPI` `LangChain` `ChromaDB` `Groq API` `RAG` 
+`Python` `FastAPI` `LangChain` `ChromaDB` `Groq API` `HuggingFace` `Mistral-7B` `LLaMA3` `Docker` `RAG`
 
 ---
 
-### 📄 [Document Q&A RAG System](https://github.com/sakthee30/document-qna-rag-local)
-> RAG pipeline built using FastAPI, FAISS, Streamlit, and local Mistral LLM via Ollama.
+### 📄 [Document Q&A RAG System — FAISS + Streamlit](https://github.com/sakthee30/document-qna-rag-local)
+> Privacy-first RAG pipeline with local LLM inference — no data sent to external APIs
 
 - Custom **FAISS vector store** built from scratch using `IndexFlatL2`
 - **SentenceTransformers** (all-MiniLM-L6-v2) for embedding generation
-- Local **Mistral LLM** via Ollama REST API for privacy-first inference
+- Local **Mistral LLM** via Ollama REST API — privacy-first, offline inference
 - Full-stack with **Streamlit** frontend + **FastAPI** backend
 
-`Python` `FastAPI` `Streamlit` `FAISS` `SentenceTransformers` `Mistral` `Ollama`
+`Python` `FastAPI` `Streamlit` `FAISS` `SentenceTransformers` `Mistral` `Ollama` `RAG`
 
 ---
 
 ### 🎫 [Movie Ticket Management API](https://github.com/sakthee30/movie-ticket-management-api)
-> Production-style REST API with AI-powered recommendations
+> Production-style REST API with JWT auth, role-based access control, and AI-powered recommendations
 
 - **JWT authentication** with role-based access control (User / Admin)
 - Status-driven booking workflow: `PENDING → CONFIRMED / SUCCESS`
-- **AI-powered genre-based movie recommendation** system as a service layer
+- **AI-powered genre-based movie recommendation** system as a dedicated service layer
 - Clean architecture: routers, models, schemas, utilities, AI service
 
 `Python` `FastAPI` `SQLAlchemy` `Pydantic` `JWT` `SQLite` `REST API`
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sakthee30&color=0066CC&style=for-the-badge&label=PROFILE+VIEWS)
 
