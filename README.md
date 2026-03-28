@@ -73,7 +73,6 @@ Software Engineer at Capgemini with 1.3 years of experience in backend developme
 
 **☁️ Cloud & Certifications**
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
