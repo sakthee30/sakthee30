@@ -23,9 +23,9 @@
 
 ## 👩‍💻 About Me
 
-- 🏢 **Software Engineer at Capgemini** — supporting Oracle Retail operations for **John Lewis Partnership (JLP/Waitrose)**, one of the UK's largest retail enterprises
-- 🤖 **Passionate about Gen AI** — independently building and deploying production-grade AI systems outside work
-- 🚀 **Currently building:** Multi-agent RAG systems, LangGraph orchestration, FastAPI backends
+- 🏢 **Software Engineer at Capgemini** — supporting Oracle Retail for **John Lewis Partnership (JLP/Waitrose)**, one of the UK's largest retail enterprises
+- 🤖 **Passionate about Gen AI** — independently building and deploying production-grade AI systems
+- 🚀 **Currently building:** Multi-agent RAG systems · LangGraph orchestration · FastAPI backends
 - 🎓 **B.Tech in AI & Data Science** — Sri Sairam Engineering College | CGPA: 9.04
 - 📍 **Chennai, India** | Open to Chennai · Bangalore · Remote
 - 🏆 **Oracle Cloud Infrastructure 2025 AI Foundations Associate**
@@ -39,7 +39,7 @@
 
 **[🌐 Live Demo](https://enterprise-rag-agent-1.onrender.com)** &nbsp;|&nbsp; **[📂 GitHub](https://github.com/sakthee30/enterprise_rag_agent)**
 
-A production-grade agentic RAG system built on top of real retail enterprise domain knowledge from JLP/Waitrose.
+A production-grade agentic RAG system built using real retail enterprise domain knowledge from JLP/Waitrose.
 
 ```
 User Query → FastAPI → LangGraph Router → Policy / Compliance / Incident Agent
@@ -50,13 +50,15 @@ User Query → FastAPI → LangGraph Router → Policy / Compliance / Incident A
 ```
 
 **Stack:**
-![LangGraph](https://img.shields.io/badge/LangGraph-purple?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-orange?style=flat-square)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6B2FA0?style=flat-square&logoColor=white)
 
 ---
 
@@ -66,36 +68,51 @@ User Query → FastAPI → LangGraph Router → Policy / Compliance / Incident A
 A three-agent system (Researcher → Reasoner → Responder) with stateful graph orchestration, iterative reasoning, and external search integration.
 
 **Stack:**
-![LangGraph](https://img.shields.io/badge/LangGraph-purple?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-![Tavily](https://img.shields.io/badge/Tavily-blue?style=flat-square)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6B2FA0?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily%20Search-0066CC?style=flat-square&logoColor=white)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Gen AI & LLM
+**Gen AI & LLM**
+
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-1a5fa8?style=flat-square)
-![Agents](https://img.shields.io/badge/Multi--Agent%20Systems-purple?style=flat-square)
+![Agents](https://img.shields.io/badge/Multi--Agent%20Systems-6B2FA0?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI%20Workflows-8B0000?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-333333?style=flat-square)
+![ReAct](https://img.shields.io/badge/ReAct%20Pattern-FF6B35?style=flat-square)
+
+**Frameworks & Models**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-6B2FA0?style=flat-square)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### Vector Databases & Search
-![ChromaDB](https://img.shields.io/badge/ChromaDB-orange?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-blue?style=flat-square)
-![Embeddings](https://img.shields.io/badge/Semantic%20Search-green?style=flat-square)
+**Vector Databases**
 
-### Backend & DevOps
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0066CC?style=flat-square)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-009688?style=flat-square)
+
+**Backend & DevOps**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Enterprise
+**Enterprise**
+
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ---
 
