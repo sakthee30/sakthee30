@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- <b>AI Engineer &nbsp;|&nbsp; Gen AI Developer &nbsp;|&nbsp; LLM Application Developer</b><br/> -->
-  <i>Building production-grade AI systems that solve real enterprise problems</i>
+  <!-- <i>Building production-grade AI systems that solve real enterprise problems</i>-->
 </p>
 
 <p align="center">
