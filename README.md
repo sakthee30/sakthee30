@@ -23,8 +23,8 @@
 
 ## 👩‍💻 About Me
 
-### Generative AI Engineer with hands-on experience building production-grade AI solutions, including a multi-agent RAG system using LangGraph, LangChain, Google Gemini, FastAPI, ChromaDB, and Docker. Proficient in LLM API integration, prompt 
-engineering, semantic search, and agentic workflows. Currently working at Capgemini with 1.5+ years of enterprise experience.
+Generative AI Engineer with hands-on experience building production-grade AI solutions, including a multi-agent RAG system using LangGraph, LangChain, Google Gemini, FastAPI, ChromaDB, and Docker. Proficient in LLM API integration, prompt engineering, semantic search, and agentic workflows. Currently working at Capgemini with 1.5+ years of enterprise experience.
+
 ---
 
 ## 🔥 Featured Project
