@@ -124,14 +124,6 @@ A three-agent system (Researcher → Reasoner → Responder) with stateful graph
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Cloud Deployment](https://img.shields.io/badge/Cloud%20Deployment-0066CC?style=flat-square)
 
-**Enterprise Domain**
-
-![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
-![Oracle ORBC](https://img.shields.io/badge/Oracle%20Retail%20ORBC-F80000?style=flat-square&logo=oracle&logoColor=white)
-![ITIL](https://img.shields.io/badge/ITIL%20Incident%20Management-6B2FA0?style=flat-square)
-![P1-P4](https://img.shields.io/badge/P1--P4%20Ticket%20Management-333333?style=flat-square)
-![GDPR](https://img.shields.io/badge/GDPR%20Compliance-003399?style=flat-square)
-
 ---
 
 ## 🏆 Certifications
