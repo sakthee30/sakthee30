@@ -23,11 +23,9 @@
 
 ## 👩‍💻 About Me
 
-- 🏢 **Software Engineer at Capgemini** — supporting Oracle Retail for **John Lewis Partnership (JLP/Waitrose)**, one of the UK's largest retail enterprises
-- 🤖 **Passionate about Gen AI** — independently building and deploying production-grade AI systems
-- 🚀 **Currently building:** Multi-agent RAG systems · LangGraph orchestration · FastAPI backends
-- 🎓 **B.Tech in AI & Data Science** — Sri Sairam Engineering College | CGPA: 9.04
-
+Generative AI Engineer with hands-on experience building production-grade AI solutions, including a multi-agent RAG system 
+using LangGraph, LangChain, Google Gemini, FastAPI, ChromaDB, and Docker. Proficient in LLM API integration, prompt 
+engineering, semantic search, and agentic workflows. Currently working at Capgemini with 1.5+ years of enterprise experience.
 ---
 
 ## 🔥 Featured Project
